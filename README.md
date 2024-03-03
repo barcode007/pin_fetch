@@ -9,5 +9,7 @@ Site is live at: https://pin-fetch.vercel.app/
 To run locally :
 
 1.npm install
+
 2.npm run dev
-then press o to run it on browser
+
+3.press o to run it on browser
